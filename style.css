@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@media(max-width: 575px) {
+    #titulo_cep {
+        margin: 15px;
+    }
+}
+
+.barra {
+    font-size: 18px;
+}
